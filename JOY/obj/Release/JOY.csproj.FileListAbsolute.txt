@@ -1,0 +1,14 @@
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\JOY.dll
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\JOY.pdb
+C:\Users\nikon\RiderProjects\JOY\JOY\obj\Release\JOY.csprojResolveAssemblyReference.cache
+C:\Users\nikon\RiderProjects\JOY\JOY\obj\Release\JOY.dll
+C:\Users\nikon\RiderProjects\JOY\JOY\obj\Release\JOY.pdb
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Containers\Container_NPCJOY.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Creatures\Creature_JOY.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Items\Item_Avatar_JOY.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Items\Item_Wardrobe_ApparelJOY.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\manifest.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Waves\Wave_JOYs1.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Waves\Wave_JOYs2.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Waves\Wave_JOYs3.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\JOY\Items\Item_Weapon_JOYWeapon.json
