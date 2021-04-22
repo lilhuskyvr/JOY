@@ -1,0 +1,25 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "NPCJOY",
+  "saveFolder": "Bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "referenceID": "ApparelJOY",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "JOYWeapon",
+      "reference": "Item",
+      "customValues": [
+        {
+          "id": "Holder",
+          "value": "BackRight"
+        }
+      ]
+    }
+  ]
+}

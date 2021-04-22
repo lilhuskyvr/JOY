@@ -1,0 +1,370 @@
+{
+  "$type": "ThunderRoad.ItemData, Assembly-CSharp",
+  "id": "ApparelJOY",
+  "saveFolder": "Bas",
+  "version": 4,
+  "localizationId": null,
+  "displayName": "JOYAvatar",
+  "description": null,
+  "author": "lilhusky",
+  "price": 0.0,
+  "purchasable": false,
+  "tier": 0,
+  "levelRequired": 0,
+  "isStackable": false,
+  "categoryPath": [],
+  "iconEffectId": null,
+  "iconAddress": null,
+  "prefabAddress": "Bas.Item.Prop.WrappedFabric_01",
+  "pooledCount": 0,
+  "androidPooledCount": 0,
+  "type": "Wardrobe",
+  "slot": null,
+  "snapAudioContainerAddress": null,
+  "mass": 1.0,
+  "drag": 1.0,
+  "angularDrag": 1.0,
+  "manaRegenMultiplier": 1.0,
+  "spellChargeSpeedPlayerMultiplier": 1.0,
+  "spellChargeSpeedNPCMultiplier": 1.0,
+  "collisionMaxOverride": 0,
+  "collisionEnterOnly": false,
+  "collisionNoMinVelocityCheck": false,
+  "forceLayer": "None",
+  "flyFromThrow": false,
+  "flyRotationSpeed": 2.0,
+  "flyThrowAngle": 0.0,
+  "telekinesisSafeDistance": 1.0,
+  "telekinesisSpinEnabled": true,
+  "telekinesisThrowRatio": 1.0,
+  "grippable": false,
+  "customSnaps": [],
+  "modules": [
+    {
+      "$type": "CustomAvatarFramework.ItemModuleAvatar, CustomAvatarFramework",
+      "avatarItemId": "JOY",
+      "avatarHeight": 1.65,
+      "playerScaleRatio": 1.0,
+      "npcScaleRatio": 1.0,
+      "positionMatchingExemptionBoneNames": [
+        "RightLeg_Mesh",
+        "RightUpLeg_Mesh",
+        "RightFoot_Mesh",
+        "LeftLeg_Mesh",
+        "LeftUpLeg_Mesh",
+        "LeftFoot_Mesh",
+        "Neck_Mesh",
+        "Head_Mesh",
+        "LeftShoulder_Mesh",
+        "RightShoulder_Mesh",
+        "LeftArm_Mesh",
+        "RightArm_Mesh",
+        "LeftForeArm_Mesh",
+        "RightForeArm_Mesh",
+        "LeftHand_Mesh",
+        "LeftFingerIndexProximal_Mesh",
+        "LeftFingerIndexIntermediate_Mesh",
+        "LeftFingerIndexDistal_Mesh",
+        "LeftFingerLittleProximal_Mesh",
+        "LeftFingerLittleIntermediate_Mesh",
+        "LeftFingerLittleDistal_Mesh",
+        "LeftFingerMiddleProximal_Mesh",
+        "LeftFingerMIddleIntermediate_Mesh",
+        "LeftFingerMiddleDistal_Mesh",
+        "LeftFingerRingProximal_Mesh",
+        "LeftFingerRingIntermediate_Mesh",
+        "LeftFingerRingDistal_Mesh",
+        "LeftFingerThumbProximal_Mesh",
+        "LeftFingerThumbIntermediate_Mesh",
+        "LeftFingerThumbDistal_Mesh",
+        "RightHand_Mesh",
+        "RightFingerIndexProximal_Mesh",
+        "RightFingerIndexIntermediate_Mesh",
+        "RightFingerIndexDistal_Mesh",
+        "RightFingerLittleProximal_Mesh",
+        "RightFingerLittleIntermediate_Mesh",
+        "RightFingerLittleDistal_Mesh",
+        "RightFingerMiddleProximal_Mesh",
+        "RightFingerMIddleIntermediate_Mesh",
+        "RightFingerMiddleDistal_Mesh",
+        "RightFingerRingProximal_Mesh",
+        "RightFingerRingIntermediate_Mesh",
+        "RightFingerRingDistal_Mesh",
+        "RightFingerThumbProximal_Mesh",
+        "RightFingerThumbIntermediate_Mesh",
+        "RightFingerThumbDistal_Mesh"
+      ],
+      "bones": {
+        "Rig_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Head_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "Neck_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "Spine_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "Spine1_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "RightArm_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "LeftArm_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "LowerBack_Mesh": {
+          "x": 0,
+          "y": 0,
+          "z": 90
+        },
+        "RightUpLeg_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftUpLeg_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftLeg_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightLeg_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftHand_Mesh": {
+          "x": 90,
+          "y": 0,
+          "z": 90
+        },
+        "RightHand_Mesh": {
+          "x": -90,
+          "y": 0,
+          "z": 90
+        },
+        "RightForeArm_Mesh": {
+          "x": -40,
+          "y": 0,
+          "z": 90
+        },
+        "LeftForeArm_Mesh": {
+          "x": 40,
+          "y": 0,
+          "z": 90
+        },
+        "RightFoot_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFoot_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerIndexProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerIndexIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerIndexDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerLittleProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerLittleIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerLittleDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerMiddleProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerMIddleIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerMiddleDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerRingProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerRingIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerRingDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerThumbProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerThumbIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "RightFingerThumbDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerIndexProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerIndexIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerIndexDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerLittleProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerLittleIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerLittleDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerMiddleProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerMIddleIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerMiddleDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerRingProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerRingIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerRingDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerThumbProximal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerThumbIntermediate_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftFingerThumbDistal_Mesh": {
+          "x": 180,
+          "y": 0,
+          "z": 90
+        },
+        "LeftToe_Mesh": {
+          "x": -90,
+          "y": 0,
+          "z": 0
+        },
+        "RightToe_Mesh": {
+          "x": -90,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    {
+      "$type": "ThunderRoad.ItemModuleWardrobe, Assembly-CSharp",
+      "category": "Apparel",
+      "wardrobes": [
+        {
+          "creatureName": "HumanMale",
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Pants"
+        },
+        {
+          "creatureName": "HumanFemale",
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Pants"
+        }
+      ]
+    }
+  ],
+  "colliderGroups": [],
+  "damagers": [],
+  "Interactables": [],
+  "effectHinges": [],
+  "whooshs": []
+}
