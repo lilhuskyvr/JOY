@@ -12,8 +12,8 @@
       "customValues": []
     },
     {
-      "referenceID": "JOYWeapon",
-      "reference": "Item",
+      "referenceID": "Weapon1H",
+      "reference": "Table",
       "customValues": [
         {
           "id": "Holder",
