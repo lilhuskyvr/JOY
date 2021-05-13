@@ -52,9 +52,7 @@
         "RightFoot_Mesh",
         "LeftLeg_Mesh",
         "LeftUpLeg_Mesh",
-        "LeftFoot_Mesh",
-        "Neck_Mesh",
-        "Head_Mesh"
+        "LeftFoot_Mesh"
       ],
       "bones": {
         "Rig_Mesh": {

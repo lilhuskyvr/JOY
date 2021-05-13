@@ -10,7 +10,7 @@
   "prefabAddress": "Bas.Creature.HumanFemale",
   "removeMeshWhenPooled": false,
   "gender": "Female",
-  "health": 1000,
+  "health": 100,
   "mana": 100.0,
   "manaRegen": 5.0,
   "focus": 30.0,
